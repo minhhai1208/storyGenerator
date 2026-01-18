@@ -4,7 +4,7 @@ This project implements a **word-level text generation model** using **LSTM** in
 
 ---
 
-## 📘 Overview
+##  Overview
 
 The goal of this project is to **generate new text** that mimics the style and structure of the input corpus. Using a recurrent neural network (RNN) architecture, specifically **LSTM (Long Short-Term Memory)**, the model learns sequential patterns in the text and predicts the next word given a sequence of previous words.
 
@@ -18,7 +18,7 @@ Key steps:
 
 ---
 
-## ⚙️ How It Works
+##  How It Works
 
 1. **Text Preprocessing**  
    - The corpus is read line by line and tokenized into words.  
@@ -50,7 +50,7 @@ Key steps:
 
 ---
 
-## 🧩 Tech Stack
+##  Tech Stack
 
 | Library | Purpose |
 |---------|---------|
@@ -61,7 +61,7 @@ Key steps:
 
 ---
 
-## 🔑 Key Learnings / Skills Demonstrated
+##  Key Learnings / Skills Demonstrated
 
 - Sequential data processing for text.  
 - Building a **custom dictionary and tokenization** pipeline.  
